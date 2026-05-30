@@ -1,0 +1,18 @@
+# @license
+# SPDX-License-Identifier: Apache-2.0
+# 
+# Python Environment Requirements for Student Performance Predictor local execution
+# Run: pip install -r requirements.txt
+
+fastapi==0.110.0
+uvicorn==0.28.0
+scikit-learn==1.4.1
+pandas==2.2.1
+numpy==1.26.4
+joblib==1.3.2
+jinja2==3.1.3
+python-multipart==0.0.9
+pydantic==2.6.4
+matplotlib==3.8.3
+seaborn==0.13.2
+google-genai==0.3.0
